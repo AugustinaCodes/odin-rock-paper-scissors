@@ -1,8 +1,8 @@
 ## The Odin Project - Rock Paper Scissors Game
 
-This project is done as part of The Oding Project curicculum.
+This project is done as part of The Odin Project curicculum.
 
-The Rock, Paper, Scissors game demonstrates bascis understanding of JavaScript functions. 
+The Rock, Paper, Scissors game demonstrates basic understanding of JavaScript functions. 
 
 ### To Run
 
