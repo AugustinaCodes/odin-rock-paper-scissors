@@ -1,6 +1,6 @@
 ## The Odin Project - Rock Paper Scissors Game
 
-This project is done as part of The Odin Project curicculum.
+This project is done as part of The Odin Project curriculum.
 
 The Rock, Paper, Scissors game demonstrates basic understanding of JavaScript functions. 
 
